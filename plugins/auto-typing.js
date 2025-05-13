@@ -5,7 +5,7 @@ const {liza , commands} = require('../liza')
 
 
 // Composing (Auto Typing)
-malvin({
+liza({
     on: "body"
 },    
 async (conn, mek, m, { from, body, isOwner }) => {
