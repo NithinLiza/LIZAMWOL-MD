@@ -24,7 +24,7 @@ MODE: process.env.MODE || "public",
         AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 // make true if you want auto reply on status 
 
-        AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY 𝙻ιzα мωσℓ 😆*",
+        AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "false",
 // set the auto reply massage on status reply  
 
 
